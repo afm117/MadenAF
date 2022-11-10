@@ -1,6 +1,4 @@
-Case Ahmet Furkan Mdn
-=================================
+Maden Ahmet Furkan - Stopwatch
 
-This app bla bla bla
 
 
